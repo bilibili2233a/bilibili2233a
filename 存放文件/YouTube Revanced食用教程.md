@@ -2,7 +2,7 @@
 
 本教程由Telegram[**@Guptafhxc**](https://t.me/Guptafhxc)编写
 
-想直接到正题，点击目录跳到3
+想直接到正题，就就从3开始
 
 # 1.YouTube Revanced是什么
 
@@ -58,11 +58,10 @@ ReVanced是一个用于YouTube等应用的模块化补丁程序，项目诞生�
 
 第一步:设置→应用和服务→应用启动管理→搜索microg，自动管理改成手动管理，给三项自启动权限按下确定。
 
-![Screenshot_20230417_115302_com.huawei.systemmanager_edit_52918848043487.jpg](YouTube%20Revanced%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B%2037a27dc37fc74375b2baaf0280b29ccc/Screenshot_20230417_115302_com.huawei.systemmanager_edit_52918848043487.jpg)
-
+![图片1](https://article.biliimg.com/bfs/article/8f5e3b347a7577252fa57d169e2a53e257eb8599.jpg)
 第二步:设置→应用和服务→权限管理（右上角的特殊访问权限）→点击电池优化→把左上角的不允许改成所有应用→搜索microg→改成不允许确定
 
-![Screenshot_20230417_121321_com.android.settings~2.jpg](YouTube%20Revanced%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B%2037a27dc37fc74375b2baaf0280b29ccc/Screenshot_20230417_121321_com.android.settings2.jpg)
+![图片2](https://article.biliimg.com/bfs/article/f6ef8849067dbb875e59c7bab6bc0d4d4bd2c5bc.jpg)
 
 # 6.如何登录自己的Google账号
 
@@ -74,7 +73,8 @@ ReVanced是一个用于YouTube等应用的模块化补丁程序，项目诞生�
 
 如果你进度条有其他五颜六色的存在，那说明这个视频可能有广告等其他内容。
 
-![Screenshot_20230417_122107_app.revanced.android.youtube.jpg](YouTube%20Revanced%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B%2037a27dc37fc74375b2baaf0280b29ccc/Screenshot_20230417_122107_app.revanced.android.youtube.jpg)
+![图片4](https://article.biliimg.com/bfs/article/d31d5980c21b1fce67fb98e75dc7845256c435d7.jpg)
+
 
 我建议不要关闭全部，可以按需求来选择关闭/仅提示。
 
@@ -86,4 +86,4 @@ ReVanced是一个用于YouTube等应用的模块化补丁程序，项目诞生�
 
 或者只关闭一部分就往下翻:
 
-![Screenshot_20230417_122752_app.revanced.android.youtube.jpg](YouTube%20Revanced%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B%2037a27dc37fc74375b2baaf0280b29ccc/Screenshot_20230417_122752_app.revanced.android.youtube.jpg)
+![图片3](https://article.biliimg.com/bfs/article/ed46431256c6726c1eed4195c913fc91030c0fa2.jpg)
